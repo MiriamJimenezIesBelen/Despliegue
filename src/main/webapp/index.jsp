@@ -18,6 +18,7 @@
 
     <button type="submit">Sumar</button>
 </form>
+<p>Segundo cambio</p>
 
 <%
     Object resultado = request.getAttribute("resultado");
