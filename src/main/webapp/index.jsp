@@ -28,7 +28,7 @@
 <%
     }
 %>
-<p>CAmbio</p>
+<p>Cambio nuevo</p>
 
 </body>
 </html>
