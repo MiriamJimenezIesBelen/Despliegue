@@ -5,13 +5,13 @@
 <h1>Calculadora Web</h1>
 
 <form action="HelloServlet" method="post">
-    <p> Nuevo</p>
-    <label>Número 1:</label>
+<<<<<<< HEAD
+    <label>Número A:</label>
     <input type="text" name="a" />
 
     <br/><br/>
 
-    <label>Número 2:</label>
+    <label>Número B:</label>
     <input type="text" name="b" />
 
     <br/><br/>
@@ -28,6 +28,7 @@
 <%
     }
 %>
+<p>CAmbio</p>
 
 </body>
 </html>
