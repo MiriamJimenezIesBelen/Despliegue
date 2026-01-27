@@ -4,7 +4,7 @@
 <body>
 <h1>Calculadora Web</h1>
 
-<h1>Prueba de cambio, segunda vez</h1>
+<h1>Prueba de cambio, tercera vez</h1>
 <form action="HelloServlet" method="post">
     <label>Número A:</label>
     <input type="text" name="a" />
@@ -28,8 +28,6 @@
 <%
     }
 %>
-<p>Cambio nuevo</p>
-<h3>Cambio en Pipeline</h3>
 
 </body>
 </html>
