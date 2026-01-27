@@ -4,7 +4,7 @@
 <body>
 <h1>Calculadora Web</h1>
 
-<p>Nuevo</p>
+<h1>Prueba de cambio, segunda vez</h1>
 <form action="HelloServlet" method="post">
     <label>Número A:</label>
     <input type="text" name="a" />
@@ -18,7 +18,7 @@
 
     <button type="submit">Sumar</button>
 </form>
-<p>Segundo cambio</p>
+
 
 <%
     Object resultado = request.getAttribute("resultado");
