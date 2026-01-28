@@ -4,7 +4,7 @@
 <body>
 <h1>Calculadora Web</h1>
 
-<h1>Prueba de cambio 2</h1>
+<h1>Cambio</h1>
 <form action="HelloServlet" method="post">
     <label>Número A:</label>
     <input type="text" name="a" />
